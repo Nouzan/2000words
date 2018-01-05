@@ -4,3 +4,7 @@ keys.py
 # output
 output_words.txt
 output.txt
+
+# backups & data files
+backups/
+*.db
